@@ -1,12 +1,12 @@
 * {box-sizing: border-box;}
-html, body { 
+/*html, body { 
 margin: 0;
 padding: 0;
 height: 100%;
 overflow:auto;  
-}
+}*/
 body {
-position: relative;
+/*position: relative;*/
 /*padding-bottom: 30px;*/
 margin: 0;
 height: 100%;
@@ -100,10 +100,10 @@ margin: 0;
 background-color: #a3b18a;
 width: 100%;
 height: 43px;
-position: fixed;  
-bottom: 0;
+/*position: fixed; */ 
+/*bottom: 0;
 left: 0; 
-right: 0; 
+right: 0; */
 }
 footer p { 
 /*font-family: ; */
@@ -129,9 +129,4 @@ body {
 display: flex;
 flex-direction: column;
 }
-@media (max-width: 600px)
-{
-footer { 
-height: 43px; 
-}
-}  
+ 
