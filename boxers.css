@@ -125,3 +125,7 @@ margin-bottom: 5px;
 border: ;
 background-color: ;*/
 }
+body {
+display: flex;
+flex-direction: column;
+}
